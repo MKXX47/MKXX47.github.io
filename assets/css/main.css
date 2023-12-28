@@ -667,6 +667,7 @@ body{
 }
 .about--banner h2{
     position:relative;
+    font-family: 'Lucida Console', monospace;
     margin-top:30px;
     font-size:30px;
     font-weight:900;
