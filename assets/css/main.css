@@ -794,7 +794,7 @@ body{
     margin:0 auto 25px auto
 }
 .contact--lockup .modal--options li:nth-child(1){
-    background-color:#1769ff
+    background-color:#47d147
 }
 .contact--lockup .modal--options li:nth-child(2){
     background-color:#ea4c89
@@ -802,7 +802,6 @@ body{
 .contact--lockup .modal--options li:nth-child(3){
     margin-bottom:0;
     background-color:#0f33ff;
-    text-transform:uppercase
 }
 .contact--lockup .modal--options a{
     display:block;
