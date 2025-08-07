@@ -1,2 +1,2 @@
 # This is my personal website 
-Here is the link to visualize it https://mkxx47.github.io/website.github.io/
+Here is the link to visualize it https://mkxx47.github.io
